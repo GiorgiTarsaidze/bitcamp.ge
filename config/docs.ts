@@ -170,16 +170,16 @@ export const docsConfig: DocsConfig = {
           href: "/mentors/nika-kipshidze",
         },
         {
-          title: "სანდრო წამალაშვილი",
-          href: "/mentors/sandro-tsamalashvili",
-        },
-        {
           title: "თედო ჯანელიძე",
           href: "/mentors/tedo-janelidze",
         },
         {
           title: "თემური ცუცქირიძე",
           href: "/mentors/temuri-tsutskiridze",
+        },
+        {
+          title: "ეკა აბაშიძე",
+          href: "/mentors/eka-abashidze",
         },
       ],
     },
